@@ -1,10 +1,10 @@
 ---
 layout: page
-home-title: Welcome to zhonger's blog!
+home-title: Liangyuan (Circle) Chen
 description: Writing, writing, writing ...
-cover: 'https://images.unsplash.com/photo-1630824869986-a5b2f513b1f4'
-cover_author: 'Eean Chen'
-cover_author_link: 'https://unsplash.com/@zhouyudesign'
+cover: '/assets/img/bg/raiden_1.png'
+cover_author: 'HAYUN'
+cover_author_link: 'https://wall.alphacoders.com/unregistered.php?id=57919'
 permalink: /logs.html
 ---
 

@@ -8,6 +8,7 @@ cover_author: 'rogov'
 cover_author_link: 'https://unsplash.com/@rogovca'
 tags: 
 - jekyll
+published: false
 ---
 
 > Transform your plain text into static websites and blogs.
